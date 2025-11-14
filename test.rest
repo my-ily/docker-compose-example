@@ -1,0 +1,13 @@
+
+
+GET  http://localhost:5030
+
+###
+
+POST http://localhost:5030
+Content-Type: application/json
+
+{
+   " name":"queeen",
+   "location":"heart"
+}
